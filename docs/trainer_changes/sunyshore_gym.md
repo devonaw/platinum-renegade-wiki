@@ -30,24 +30,24 @@ Ace Trainer Zachery              | ![][181]<br>[Ampharos]<br>Lv. 60   | ![][462]
 --8<-- "includes/natures.md"
 
 [Leader Volkner]: #leader-volkner
-[Pikachu]: ../../pokemon_changes/025/
-[Raichu]: ../../pokemon_changes/026/
-[Electrode]: ../../pokemon_changes/101/
-[Electabuzz]: ../../pokemon_changes/125/
-[Jolteon]: ../../pokemon_changes/135/
-[Lanturn]: ../../pokemon_changes/171/
-[Pichu]: ../../pokemon_changes/172/
-[Ampharos]: ../../pokemon_changes/181/
-[Elekid]: ../../pokemon_changes/239/
-[Manectric]: ../../pokemon_changes/310/
-[Plusle]: ../../pokemon_changes/311/
-[Minun]: ../../pokemon_changes/312/
-[Luxray]: ../../pokemon_changes/405/
-[Pachirisu]: ../../pokemon_changes/417/
-[Magnezone]: ../../pokemon_changes/462/
-[Electivire]: ../../pokemon_changes/466/
-[Wash Rotom]: ../../pokemon_changes/479/#wash-rotom
-[Heat Rotom]: ../../pokemon_changes/479/#heat-rotom
+[Pikachu]: ../../pokemons/025/
+[Raichu]: ../../pokemons/026/
+[Electrode]: ../../pokemons/101/
+[Electabuzz]: ../../pokemons/125/
+[Jolteon]: ../../pokemons/135/
+[Lanturn]: ../../pokemons/171/
+[Pichu]: ../../pokemons/172/
+[Ampharos]: ../../pokemons/181/
+[Elekid]: ../../pokemons/239/
+[Manectric]: ../../pokemons/310/
+[Plusle]: ../../pokemons/311/
+[Minun]: ../../pokemons/312/
+[Luxray]: ../../pokemons/405/
+[Pachirisu]: ../../pokemons/417/
+[Magnezone]: ../../pokemons/462/
+[Electivire]: ../../pokemons/466/
+[Wash Rotom]: ../../pokemons/479/#wash-rotom
+[Heat Rotom]: ../../pokemons/479/#heat-rotom
 [choice-band]: ../img/items/choice-band.png
 [expert-belt]: ../img/items/expert-belt.png
 [focus-sash]: ../img/items/focus-sash.png
