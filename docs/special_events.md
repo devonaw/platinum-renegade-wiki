@@ -79,7 +79,7 @@ Level    | 20                     | &nbsp;               | &nbsp;               
 
 - Go to the Underground Man's house, near the Pokémon Center in Eterna City.
 - Talk to the female scientist to receive fossils for [Omanyte], [Kabuto], [Aerodactyl], [Lileep], [Anorith], [Cranidos] and [Shieldon].
-- Each fossil exept [Aerodactyl] will be given 3 times.
+- Each fossil except [Aerodactyl] will be given 3 times.
 - Take the fossils to the museum in Oreburgh City to revive them.
 
 ### Johto-Starter
